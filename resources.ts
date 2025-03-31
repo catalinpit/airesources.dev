@@ -150,6 +150,14 @@ export const categories: Category[] = [
         type: "extension",
         models: ["Claude 3", "GPT-4"],
       },
+      {
+        name: "Supermaven",
+        description: "AI code completion assistant",
+        link: "https://supermaven.com",
+        iconUrl: "https://supermaven.com/favicon-32x32.png",
+        type: "extension",
+        models: ["GPT-4o", "GPT-4", "Claude 3"],
+      },
     ],
   },
   {
