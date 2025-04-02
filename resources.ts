@@ -110,6 +110,16 @@ export const categories: Category[] = [
         previewImage: "https://www.warp.dev/preview.png",
         models: ["GPT-4", "Claude 3"],
       },
+      {
+        name: "Wave",
+        description:
+          "Open-source terminal with superpowers, integrating file previews, file editing, AI, web browsing, and workspace organization",
+        link: "https://www.waveterm.dev",
+        iconUrl: "https://github.com/wavetermdev/waveterm/blob/main/assets/waveterm-logo-with-bg.png?raw=true",
+        type: "terminal",
+        previewImage: "https://raw.githubusercontent.com/wavetermdev/waveterm/refs/heads/main/assets/waveterm-logo-with-bg.ico",
+        models: ["GPT-4"],
+      },
     ],
   },
   {
