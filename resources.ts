@@ -382,6 +382,14 @@ export const categories: Category[] = [
         type: "content",
         models: ["GPT-4", "Whisper"],
       },
+      {
+        name: "Remiq",
+        description: "Self-service customer support platform",
+        link: "https://remiq.ai/",
+        iconUrl: "https://remiq.ai/icon.png",
+        type: "support",
+        models: ["GPT-4o-mini"],
+      },
     ],
   },
 ];
