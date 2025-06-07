@@ -228,6 +228,14 @@ export const categories: Category[] = [
         type: "chat",
         models: ["GPT-4", "Claude 3", "Gemini Pro"],
       },
+      {
+        name: "Fyzz Chat",
+        description: "Chat with the best AI models in one place",
+        link: "https://www.fyzz.chat/chat",
+        iconUrl: "https://www.fyzz.chat/icon-192x192.png",
+        type: "chat",
+        models: ["GPT", "Claude 4", "Gemini Pro", "Grok 3", "DeepSeek", "Perplexity", "Llama"],
+      },
     ],
   },
   {
