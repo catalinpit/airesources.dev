@@ -400,4 +400,18 @@ export const categories: Category[] = [
       },
     ],
   },
+  {
+    title: "Security",
+    description: "Tools and resources for securing AI",
+    categorySlug: "security",
+    items: [
+      {
+        name: "Pomerium",
+        description: "Identity-aware access proxy for securing agentic access",
+        link: "https://www.pomerium.com/",
+        iconUrl: "https://www.pomerium.com/static-img/favicon.svg",
+        type: "security",
+      },
+    ],
+  },
 ];
